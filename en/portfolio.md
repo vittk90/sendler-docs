@@ -10,6 +10,8 @@ Your portfolio is organized by collection. For each collection you see:
 * The collection's contract address (one-tap copy)
 * **Orders** panel and operation **history**
 * Search, filters, sorting, and grouping tools
+* **Collection switcher** — jump between your collections without leaving the portfolio
+* **Owners** — tap the icon next to the collection name to see every wallet that holds NFTs from that collection, ranked by how many they own (works for any collection on the platform, not just your own)
 
 ## Per-NFT actions
 

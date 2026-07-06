@@ -13,11 +13,11 @@ Each collection page shows:
 
 ## Browsing & filters
 
-* **Trending** — see what's hot across the platform right now.
+* **Collection switcher** — pick any collection from the full list (with search, favorites, and notification bells) right from the market, without going back to the home screen.
 * **Grouped listings** — identical NFTs stack into a single card showing the count (e.g. `10 NFTs`) and the lowest *From* price. Toggle **Ungroup** to see each listing separately.
 * **Off shop** — filter toggle for items outside the official shop.
 * **Search** within a collection.
-* **Sorting:** Recently listed · Price ↑ · Price ↓ · **Reputation ↑ / ↓** — a Sendler exclusive that sorts listings by the seller's reputation score.
+* **Sorting:** Recently listed · Price ↑ · Price ↓
 * **Currency filter** — show listings only in the currency you care about.
 
 ## Multi-currency listings
@@ -36,6 +36,15 @@ Open an NFT card to see **all available listings** for that item — each with i
 
 * **Buy** — instant purchase at the listed price.
 * **Place order** — set your own order for the item.
+
+## Owners
+
+Every collection page has an **Owners** button next to its name. Open it to see:
+
+* Total number of **unique owners**
+* A searchable list of every holder wallet, ranked by how many NFTs from that collection they hold
+
+Handy for checking how concentrated (or spread out) a collection's ownership really is — for any collection on the platform.
 
 ## Orders
 

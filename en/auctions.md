@@ -7,7 +7,7 @@ Sell at the peak of demand — or snipe a deal.
 The Auctions page shows all auctions on the platform (hundreds at a time) with a live counter of currently active ones.
 
 * **Filters:** All · **Mine** (your lots)
-* Each card shows: rarity badge, stack size (×2, ×3…), **starting price** or **current bid**, reputation value of the lot, and a **live countdown**.
+* Each card shows: rarity badge, stack size (×2, ×3…), **starting price** or **current bid**, and a **live countdown**.
 
 ## Auction card
 

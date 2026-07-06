@@ -23,8 +23,6 @@
 ## Explorer и аналитика
 
 * [Обзор Explorer](explorer/overview.md)
-* [Рейтинг репутации](explorer/reputation.md)
-* [Рейтинг Duplo](explorer/duplo.md)
 * [FT Holders](explorer/ft-holders.md)
 
 ## Помощь

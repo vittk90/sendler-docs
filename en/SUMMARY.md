@@ -23,8 +23,6 @@
 ## Explorer & Analytics
 
 * [Explorer Overview](explorer/overview.md)
-* [Reputation Rating](explorer/reputation.md)
-* [Duplo Rating](explorer/duplo.md)
 * [FT Holders](explorer/ft-holders.md)
 
 ## Help
